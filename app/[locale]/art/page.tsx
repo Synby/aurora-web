@@ -395,7 +395,7 @@ export default function ArtGalleryPage() {
               onMouseLeave={handleMouseUp}
             >
               <img
-                src={selectedArtwork.image}
+                src={selectedArtwork.thumbnail || selectedArtwork.image}
                 alt={t(`artworks.${selectedArtwork.id}.title`)}
                 className="max-h-[80vh] max-w-[90vw] object-contain"
                 style={{
