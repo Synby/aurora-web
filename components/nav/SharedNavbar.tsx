@@ -40,10 +40,10 @@ const SharedNavbar = ({ variant = "page", onScrollTo }: SharedNavbarProps) => {
 
   return (
     <nav
-      className={`fixed ${isTop ? "top-4" : "top-0 lg:top-4"} z-30 w-full text-white transition duration-300 ease-in-out`}
+      className={`fixed ${isTop && !navbarOpen ? "top-4" : "top-0 lg:top-4"} z-30 w-full text-white transition duration-300 ease-in-out`}
     >
       <div
-        className={`container mx-auto flex w-full max-w-screen-2xl flex-col flex-wrap items-center p-4 md:flex-row lg:w-2/3 lg:p-2 ${isTop ? "bg-transparent" : "bg-gray-300/10 px-2 drop-shadow-xl backdrop-blur-2xl lg:rounded-3xl"}`}
+        className={`container mx-auto flex w-full flex-col flex-wrap items-center p-6 md:flex-row lg:w-5/6 lg:p-2 ${isTop && !navbarOpen ? "bg-transparent" : "bg-gray-300/10 px-4 drop-shadow-xl backdrop-blur-2xl lg:rounded-3xl"} ${navbarOpen && isTop ? "pt-10" : ""}`}
       >
         {/* Desktop navbar */}
         <div className="mb-4 hidden w-full flex-row items-center justify-between gap-4 font-medium text-white md:mb-0 lg:flex">
@@ -205,12 +205,12 @@ const SharedNavbar = ({ variant = "page", onScrollTo }: SharedNavbarProps) => {
         {/* Mobile menu */}
         <Transition
           show={navbarOpen}
-          enter="transition ease-out duration-100 transform"
-          enterFrom="opacity-0 scale-95"
-          enterTo="opacity-100 scale-100"
-          leave="transition ease-in duration-75 transform"
-          leaveFrom="opacity-100 scale-100"
-          leaveTo="opacity-0 scale-95"
+          enter="transition ease-out duration-100"
+          enterFrom="opacity-0"
+          enterTo="opacity-100"
+          leave="transition ease-in duration-75"
+          leaveFrom="opacity-100"
+          leaveTo="opacity-0"
           className="w-full"
           as="div"
         >

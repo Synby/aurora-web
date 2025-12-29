@@ -36,11 +36,11 @@ const Navbar = ({
       className={`fixed ${isTop ? "top-4" : "top-0 lg:top-4"} z-30 w-full text-white transition duration-300 ease-in-out`}
     >
       <div
-        className={`container mx-auto flex w-full max-w-screen-2xl flex-col flex-wrap items-center lg:p-2 p-4 md:flex-row lg:w-2/3 ${isTop ? "bg-transparent" : "bg-gray-300/10 px-2 backdrop-blur-2xl lg:rounded-3xl"}`}
+        className={`container mx-auto flex w-full max-w-screen-2xl flex-col flex-wrap items-center p-4 md:flex-row lg:w-5/6 lg:p-2 ${isTop ? "bg-transparent" : "bg-gray-300/10 px-2 backdrop-blur-2xl lg:rounded-3xl"}`}
       >
         <div className="mb-4 hidden w-full flex-row items-center justify-between gap-4 font-medium text-white md:mb-0 lg:flex">
           <div
-            className={"cursor-pointer ml-2"}
+            className={"ml-2 cursor-pointer"}
             onClick={() => {
               introRef.current.scrollIntoView({
                 behavior: "smooth",
@@ -125,7 +125,7 @@ const Navbar = ({
               className={`${isTop ? "block" : "hidden"}`}
             />
           </div>
-          <div className={"flex flex-row gap-3 items-center"}>
+          <div className={"flex flex-row items-center gap-3"}>
             <LanguageSelector />
             <button
               className="block cursor-pointer rounded border border-solid border-transparent bg-transparent px-3 py-1 text-xl leading-none text-white outline-none focus:outline-none lg:hidden"
@@ -165,7 +165,11 @@ const Navbar = ({
             id="example-navbar-warning"
           >
             <div className="flex w-full flex-col items-center justify-center gap-14 p-10 text-lg">
-              <NavbarItems introRef={introRef} newsRef={newsRef} closeNavbar={closeNavbar}/>
+              <NavbarItems
+                introRef={introRef}
+                newsRef={newsRef}
+                closeNavbar={closeNavbar}
+              />
             </div>
           </div>
         </Transition>
@@ -175,7 +179,15 @@ const Navbar = ({
 };
 export default Navbar;
 
-function NavbarItems({introRef, newsRef, closeNavbar}: {introRef: any, newsRef: any, closeNavbar: any}) {
+function NavbarItems({
+  introRef,
+  newsRef,
+  closeNavbar,
+}: {
+  introRef: any;
+  newsRef: any;
+  closeNavbar: any;
+}) {
   const t = useTranslations("Navbar");
   return (
     <>
