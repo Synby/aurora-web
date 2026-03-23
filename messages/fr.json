@@ -51,7 +51,7 @@
 	"Introduction": {
 		"title": "Aurora,",
 		"stargazer": "Bonjour astronome, Aurora vous attend.",
-		"powered": "Alimenté par la puissance de KDE et d'Universal Blue, conçu pour vous.",
+		"powered": "Conçu pour vous grâce à la puissance de KDE et d'Universal Blue.",
 		"onboard": "Embarquez dans le vaisseau vers votre nouveau système d'exploitation de bureau.",
 		"gaze": "Observons les étoiles ensemble, cher voyageur.",
 		"learn-more": "En savoir plus",
@@ -67,7 +67,7 @@
 		"loop-8": "Concevez le prochain vaisseau spatial."
 	},
 	"About-Aurora": {
-		"for-end-user": "Aurora pour les utilisateurs finaux",
+		"for-end-user": "Aurora pour le grand public",
 		"reliable": "Aurora vous propose une expérience d'utilisation fiable, sûre et fluide pour les tâches quotidiennes et bien au-delà.",
 		"simply-delightful": "Agréable, tout simplement.",
 		"simply-delightful-text": "Aurora propose un bureau KDE Plasma légèrement personnalisé pour une expérience super fluide et agréable qui peut être personnalisée à l'infini.",
