@@ -100,13 +100,13 @@
 	},
 	"Build-Your-Own": {
 		"build-your-own": "Construisez votre propre Aurora",
-		"want-to-build": "Vous voulez construire votre propre image ? Personnalisez votre image Aurora avec vos thèmes personnalisés dans les moindres détails ? Utilisez notre modèle d'image pour vous aider à commencer. Vous avez simplement besoin de quelques connaissances sur la conteneurisation avec Docker et d'un peu de temps. Allons-y !",
+		"want-to-build": "Vous voulez construire votre propre image ? Personnaliser votre image Aurora avec vos propres thèmes dans les moindres détails ? Utilisez notre modèle d'image pour vous aider à commencer. Vous avez simplement besoin de quelques connaissances sur la conteneurisation avec Docker et d'un peu de temps. Allons-y !",
 		"get-image-template": "Obtenir le modèle d'image"
 	},
 	"Footer": {
 		"go-up": "Remonter",
 		"proudly-built": "Fièrement construit avec",
-		"proudly-built-phrase": "une boîte à outils communautaire conçue pour réinventer le bureau Linux. Créé par passion. Bienvenue dans le cloud natif indépendant.",
+		"proudly-built-phrase": "une boîte à outils communautaire conçue pour réinventer le bureau Linux. Créé par passion. Bienvenue dans le 'cloud-native' indépendant.",
 		"built-with-love": "Construit avec ❤️ par des contributeurs du monde entier.",
 		"refined-logo": "Logo raffiné créé par @reisvg.",
 		"background-credits": "Crédits image d'arrière plan : ",
@@ -128,16 +128,16 @@
 			},
 			"q2": {
 				"question": "Qu'est-ce qu'Aurora Developer Edition ? (Aurora-DX) ?",
-				"answer": "Aurora Developer Edition est une version spéciale d'Aurora proposant divers paquets supplémentaires qui s'adressent à un public de développeurs. Ceux-ci incluent VS Code préinstallé avec des capacités DevContainer, Docker et Podman comme environnements d'exécution de conteneurs, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. L'expérience développeur inclut également divers outils pour les développeurs cloud-native. Vous pouvez toujours en installer plus via brew ! Si vous voulez la liste complète des paquets, cliquez sur le lien.",
+				"answer": "Aurora Developer Edition est une version spéciale d'Aurora proposant divers paquets supplémentaires qui s'adressent à un public de développeurs. Cette image contient VS Code préinstallé avec des capacités DevContainer, Docker et Podman comme environnements d'exécution de conteneurs, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. Enfin, divers outils pour les développeurs 'cloud-native' sont également inclus. Vous pouvez toujours en installer plus via brew ! Pour consulter la liste complète des paquets, cliquez sur le lien.",
 				"optionalLink": "https://github.com/ublue-os/bluefin/blob/main/packages.json"
 			},
 			"q3": {
-				"question": "Quelle est la différence entre Fedora Kinoite et Aurora ?",
-				"answer": "Fedora Kinoite est une expérience très basique. Aurora inclut de nombreuses améliorations et ajustements, comme des pilotes inclus pour diverses imprimantes, adaptateurs réseau, manettes de jeu et plus encore ainsi que des codecs.",
+				"question": "Quelle est la différence entre Kinoite standard et Aurora ?",
+				"answer": "Kinoite standard est une expérience très basique. Aurora intègre de nombreuses améliorations et ajustements, comme des pilotes supplémentaires pour diverses imprimantes, adaptateurs réseau, manettes de jeu, etc, ainsi que des codecs.",
 				"optionalLink": ""
 			},
 			"q4": {
-				"question": "Où puis-je trouver les dernières nouvelles et discussions sur Aurora ?",
+				"question": "Où puis-je lire les dernières nouvelles et discussions sur Aurora ?",
 				"answer": "Consultez nos Discussions Github pour les dernières mises à jour et discussions sur Aurora.",
 				"optionalLink": "https://github.com/ublue-os/aurora/discussions"
 			}
