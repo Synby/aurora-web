@@ -89,11 +89,11 @@
 		"brew-ready-text": "Brew est préinstallé et prêt à utiliser. Choisissez parmi plusieurs milliers d'outils CLI disponibles. Brew est intégré de manière fiable pour ne jamais interférer avec votre système hôte.",
 		"brew-ready-red": "Pression immédiate.",
 		"containers-best-friends": "Les conteneurs, vos meilleurs amis.",
-		"containers-best-friends-text": "Docker et Podman sont préconfigurés pour convenir à tous types de workflows, y compris pour de la CLI conteneurisée. Avec Konsole, votre distrobox est immédiatement disponible.",
+		"containers-best-friends-text": "Docker et Podman sont préconfigurés pour convenir à tous types de workflows, y compris pour de la CLI conteneurisée. Avec Konsole, votre distrobox est facilement accessible.",
 		"containers-best-friends-red": "Ne dites plus jamais 'ça marche sur ma config'.",
 		"preconfigured-work": "Préconfiguré et prêt pour un travail exigeant.",
 		"preconfigured-work-text": "Visual Studio Code est préinstallé et préconfiguré pour s'adapter aux workflows qui reposent sur des DevContainers. En une seule commande, vous pouvez obtenir Jetbrains Toolbox si vous préférez le café.",
-		"preconfigured-work-red": "Ou utilisez Neovim si vous savez comment en sortir.",
+		"preconfigured-work-red": "Ou utilisez Neovim, si vous savez comment en sortir.",
 		"robots-take-over": "Laissez les robots prendre le relai.",
 		"robots-take-over-text": "Si vous utilisez les LLM locaux ou le machine learning, Aurora est là pour vous. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA important.",
 		"robots-take-over-red": "Utilisez les robots à votre avantage."
@@ -128,12 +128,12 @@
 			},
 			"q2": {
 				"question": "Qu'est-ce qu'Aurora Developer Edition ? (Aurora-DX) ?",
-				"answer": "Aurora Developer Edition est une version spéciale d'Aurora proposant divers paquets supplémentaires qui s'adressent à un public de développeurs. Cette image contient VS Code préinstallé avec des capacités DevContainer, Docker et Podman comme environnements d'exécution de conteneurs, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. Enfin, divers outils pour les développeurs 'cloud-native' sont également inclus. Vous pouvez toujours en installer plus via brew ! Pour consulter la liste complète des paquets, cliquez sur le lien.",
+				"answer": "Aurora Developer Edition est une version d'Aurora intégrant des paquets supplémentaires qui répondent aux besoins des développeurs. Cette image contient VS Code préinstallé pour utiliser des dev containers, Docker et Podman comme environnements d'exécution, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. Enfin, des outils pour les développeurs 'cloud-native' sont également inclus. Vous pouvez toujours en installer plus via brew ! Pour consulter la liste complète des paquets, cliquez sur le lien.",
 				"optionalLink": "https://github.com/ublue-os/bluefin/blob/main/packages.json"
 			},
 			"q3": {
-				"question": "Quelle est la différence entre Kinoite standard et Aurora ?",
-				"answer": "Kinoite standard est une expérience très basique. Aurora intègre de nombreuses améliorations et ajustements, comme des pilotes supplémentaires pour diverses imprimantes, adaptateurs réseau, manettes de jeu, etc, ainsi que des codecs.",
+				"question": "Quelle est la différence entre Kinoite et Aurora ?",
+				"answer": "Kinoite offre une experience 'brute' contrairement à Aurora qui intègre de nombreuses améliorations et ajustements, comme des pilotes supplémentaires pour diverses imprimantes, adaptateurs réseau, manettes de jeu, etc, ainsi que des codecs.",
 				"optionalLink": ""
 			},
 			"q4": {
