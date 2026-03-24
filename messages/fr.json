@@ -88,19 +88,19 @@
 		"brew-ready": "Brew, paré pour coder.",
 		"brew-ready-text": "Brew est préinstallé et prêt à utiliser. Choisissez parmi plusieurs milliers d'outils CLI disponibles. Brew est intégré de manière fiable pour ne jamais interférer avec votre système hôte.",
 		"brew-ready-red": "Pression immédiate.",
-		"containers-best-friends": "Les conteneurs, vos meilleurs alliés.",
-		"containers-best-friends-text": "Docker et Podman sont préconfigurés pour convenir à tous types de workflows, y compris une expérience CLI conteneurisée. Et avec Konsole, votre distrobox n'est qu'à un clic.",
+		"containers-best-friends": "Les conteneurs, vos meilleurs amis.",
+		"containers-best-friends-text": "Docker et Podman sont préconfigurés pour convenir à tous types de workflows, y compris pour de la CLI conteneurisée. Avec Konsole, votre distrobox est immédiatement disponible.",
 		"containers-best-friends-red": "Ne dites plus jamais 'ça marche sur ma config'.",
 		"preconfigured-work": "Préconfiguré et prêt pour un travail exigeant.",
-		"preconfigured-work-text": "Visual Studio Code est préinstallé et préconfiguré pour s'adapter aux workflows qui utilisent des DevContainers. Et avec une seule commande, vous pouvez récupérer Jetbrains Toolbox si vous préférez le café.",
-		"preconfigured-work-red": "Ou utilisez neovim si vous savez comment en sortir.",
-		"robots-take-over": "Laissez les robots prendre le contrôle.",
-		"robots-take-over-text": "Si vous aimez les LLM locaux ou faites du travail d'apprentissage automatique, Aurora est également là pour vous. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA important.",
+		"preconfigured-work-text": "Visual Studio Code est préinstallé et préconfiguré pour s'adapter aux workflows qui reposent sur des DevContainers. En une seule commande, vous pouvez obtenir Jetbrains Toolbox si vous préférez le café.",
+		"preconfigured-work-red": "Ou utilisez Neovim si vous savez comment en sortir.",
+		"robots-take-over": "Laissez les robots prendre le relai.",
+		"robots-take-over-text": "Si vous utilisez les LLM locaux ou le machine learning, Aurora est là pour vous. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA important.",
 		"robots-take-over-red": "Utilisez les robots à votre avantage."
 	},
 	"Build-Your-Own": {
 		"build-your-own": "Construisez votre propre Aurora",
-		"want-to-build": "Vous voulez construire votre propre image ? Personnaliser votre image Aurora avec vos propres thèmes dans les moindres détails ? Utilisez notre modèle d'image pour vous aider à commencer. Vous avez simplement besoin de quelques connaissances sur la conteneurisation avec Docker et d'un peu de temps. Allons-y !",
+		"want-to-build": "Vous voulez construire votre propre image Aurora ? Personnaliser votre image avec vos propres thèmes dans les moindres détails ? Utilisez notre modèle d'image pour vous aider à commencer. Vous avez simplement besoin de quelques connaissances sur la conteneurisation avec Docker et d'un peu de temps. Allons-y !",
 		"get-image-template": "Obtenir le modèle d'image"
 	},
 	"Footer": {
