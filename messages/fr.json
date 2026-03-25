@@ -29,7 +29,7 @@
 		"gpu-description": "Sélectionnez votre GPU principal pour obtenir la version avec des pilotes préinstallés optimisés pour votre matériel.",
 		"intel-amd": "Intel / AMD",
 		"nvidia": "Nvidia (Série RTX/GTX 16xx)",
-		"installation-guide": "Guide d'Installation",
+		"installation-guide": "Guide d'installation",
 		"recommend-using": "Nous recommandons d'utiliser",
 		"fedora-image-writer": "Fedora Image Writer",
 		"create-usb": "pour créer votre clé USB d'installation.",
@@ -44,7 +44,7 @@
 		"image-name-will-be": "Le nom de votre image sera <bold>{name}</bold>.",
 		"slow-download": "Téléchargement lent ?",
 		"check-friends": "Découvrez nos amis chez",
-		"select-hardware-config": "Sélectionner la configuration matérielle",
+		"select-hardware-config": "Sélectionnez la configuration matérielle",
 		"choose-gpu": "Choisissez votre GPU ci-dessus pour continuer avec le téléchargement",
 		"run": "Exécuter"
 	},
@@ -64,13 +64,13 @@
 		"loop-5": "Scindez un atome d'hélium.",
 		"loop-6": "Rêvez d'exoplanètes.",
 		"loop-7": "Jouez et travaillez à 200%.",
-		"loop-8": "Concevez le prochain vaisseau spatial."
+		"loop-8": "Créez le prochain vaisseau spatial."
 	},
 	"About-Aurora": {
 		"for-end-user": "Aurora pour le grand public",
 		"reliable": "Aurora vous offre une utilisation fiable, sûre et fluide pour les tâches quotidiennes et bien au-delà.",
 		"simply-delightful": "Agréable, tout simplement.",
-		"simply-delightful-text": "Aurora offre un bureau KDE Plasma optimisé pour une expérience fluide et agréable qui peut être personnalisée à l'infini.",
+		"simply-delightful-text": "Aurora offre un bureau KDE Plasma optimisé pour une expérience fluide, agréable et entièrement personnalisable.",
 		"simply-delightful-purple": "Vous pouvez même déplacer la barre des tâches.",
 		"speed-reliability": "Vitesse et Fiabilité",
 		"speed-reliability-text": "Une pièce d'horlogerie parfaitement réglée et optimisée, pour une efficacité et une fiabilité maximales.",
