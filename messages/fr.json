@@ -163,7 +163,7 @@
 		"local-ai-highlight": "Les robots sont là pour vous servir.",
 		"containers": "Plateformes de conteneurs préinstallées.",
 		"containers-text": "Aurora Developer Experience intègre Docker et Podman, offrant choix et flexibilité pour les workflows conteneurs les plus exigeants.",
-		"containers-highlight": "<i>Cloud-native</i> n'a jamais été aussi facile.",
+		"containers-highlight": "Le cloud-native n'a jamais été aussi facile.",
 		"dev-tools": "Des outils de développement disponibles en un clic.",
 		"dev-tools-text": "L'expérience développeur intègre des outils de développement courants tels que VS Code et est préconfigurée pour les workflows de développement DevContainers. Une simple commande et les outils Jetbrains sont prêts.",
 		"dev-tools-highlight": "Tout ce dont vous avez besoin, prêt à l'emploi.",
