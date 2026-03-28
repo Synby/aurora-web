@@ -52,7 +52,7 @@
 		"title": "Aurora,",
 		"stargazer": "Bonjour astronome, Aurora vous attend.",
 		"powered": "Propulsé par KDE et Universal Blue.",
-		"onboard": "Embarquez dans le vaisseau vers votre nouveau système d'exploitation de bureau.",
+		"onboard": "Embarquez pour découvrir votre nouveau système d'exploitation de bureau.",
 		"gaze": "Observons les étoiles ensemble, cher voyageur.",
 		"learn-more": "En savoir plus",
 		"tagline": "est là. Profitez d'un système respectueux de la vie privée, rapide et stable sur votre PC.",
@@ -94,7 +94,7 @@
 		"preconfigured-work": "Préconfiguré et prêt pour un travail exigeant.",
 		"preconfigured-work-text": "Visual Studio Code est préinstallé et préconfiguré pour s'adapter aux workflows qui reposent sur DevContainers. En une seule commande, vous pouvez installer Jetbrains Toolbox.",
 		"preconfigured-work-red": "Ou utilisez Neovim, si vous savez comment en sortir.",
-		"robots-take-over": "Laissez les robots prendre le relai.",
+		"robots-take-over": "Laissez les robots prendre le relais.",
 		"robots-take-over-text": "Si vous utilisez des LLM locaux ou le <i>machine learning</i>, Aurora est là pour vous. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA intensif.",
 		"robots-take-over-red": "Utilisez les robots à votre avantage."
 	},
