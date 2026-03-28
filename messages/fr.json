@@ -298,13 +298,13 @@
 		"reset-zoom": "Réinitialiser le zoom",
 		"download": "Télécharger",
 		"download-character": "Personnage",
-		"download-profile": "Photo de Profil",
+		"download-profile": "Photo de profil",
 		"all": "Tout",
 		"categories": {
 			"characters": "Personnages",
 			"wallpapers": "Fonds d'écran"
 		},
-		"contribute-title": "Contribuez Votre Art",
+		"contribute-title": "Partagez vos créations",
 		"contribute-description": "Aurora s'engage à soutenir l'art véritablement créé par des humains. Chaque mois, vous recevrez un nouveau fond d'écran. Vous voulez nous envoyer votre création ? Faites une PR sur notre dépôt de fonds d'écran et tous les utilisateurs pourront l'installer via brew. Si nous aimons votre travail, nous pourrions vous commander le fond d'écran officiel du mois prochain.",
 		"contribute-button": "Soumettre un fond d'écran"
 	}
