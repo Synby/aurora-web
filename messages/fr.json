@@ -95,7 +95,7 @@
 		"preconfigured-work-text": "Visual Studio Code est préinstallé et préconfiguré pour s'adapter aux workflows qui reposent sur DevContainers. En une seule commande, vous pouvez installer Jetbrains Toolbox.",
 		"preconfigured-work-red": "Ou utilisez Neovim, si vous savez comment en sortir.",
 		"robots-take-over": "Laissez les robots prendre le relais.",
-		"robots-take-over-text": "Si vous utilisez des LLM locaux ou le <i>machine learning</i>, Aurora est là pour vous. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA intensif.",
+		"robots-take-over-text": "Si vous utilisez des LLM locaux ou le machine learning, Aurora est là pour vous. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA intensif.",
 		"robots-take-over-red": "Utilisez les robots à votre avantage."
 	},
 	"Build-Your-Own": {
@@ -128,7 +128,7 @@
 			},
 			"q2": {
 				"question": "Qu'est-ce qu'Aurora Developer Edition ? (Aurora-DX) ?",
-				"answer": "Aurora Developer Edition est une version d'Aurora intégrant des paquets supplémentaires qui répondent aux besoins des développeurs. Cette image contient VS Code préinstallé pour utiliser des dev containers, Docker et Podman comme environnements d'exécution, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. Enfin, des outils pour les développeurs <i>cloud-native</i> sont également inclus. Vous pouvez toujours en installer plus via brew ! Pour consulter la liste complète des paquets, cliquez sur le lien.",
+				"answer": "Aurora Developer Edition est une version d'Aurora intégrant des paquets supplémentaires qui répondent aux besoins des développeurs. Cette image contient VS Code préinstallé pour utiliser des dev containers, Docker et Podman comme environnements d'exécution, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. Enfin, des outils pour les développeurs cloud-native sont également inclus. Vous pouvez toujours en installer plus via brew ! Pour consulter la liste complète des paquets, cliquez sur le lien.",
 				"optionalLink": "https://github.com/ublue-os/aurora/blob/main/build_files/dx/00-dx.sh"
 			},
 			"q3": {
@@ -153,7 +153,7 @@
 		"hardware-support-text": "Aurora est compatible avec toutes les cartes graphiques et CPU, y compris les GPU de Nvidia. La compatibilité matérielle étendue inclut les manettes de jeu et davantage de pilotes d'imprimantes.",
 		"hardware-support-highlight": "Jouer ? Aucun problème.",
 		"helping-you": "Vous aider à chaque étape.",
-		"helping-you-text": "Aurora intègre des scripts et des utilitaires pour vous aider à démarrer rapidement et configurer vos logiciels habituels."
+		"helping-you-text": "Aurora intègre des scripts et des utilitaires pour vous aider à démarrer rapidement et configurer vos logiciels favoris."
 	},
 	"For-Developers": {
 		"title": "Aurora pour les développeurs",
@@ -163,7 +163,7 @@
 		"local-ai-highlight": "Les robots sont là pour vous servir.",
 		"containers": "Plateformes de conteneurs préinstallées.",
 		"containers-text": "Aurora Developer Experience intègre Docker et Podman, offrant choix et flexibilité pour les workflows conteneurs les plus exigeants.",
-		"containers-highlight": "Le développement cloud-native n'a jamais été aussi facile.",
+		"containers-highlight": "Le cloud-native n'a jamais été aussi facile.",
 		"dev-tools": "Des outils de développement disponibles en un clic.",
 		"dev-tools-text": "L'expérience développeur intègre des outils de développement courants tels que VS Code et est préconfigurée pour les workflows de développement DevContainers. Une simple commande et les outils Jetbrains sont prêts.",
 		"dev-tools-highlight": "Tout ce dont vous avez besoin, prêt à l'emploi.",
