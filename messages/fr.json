@@ -11,7 +11,7 @@
 	"Download-Component": {
 		"get-aurora": "Obtenir Aurora",
 		"download-iso": "Télécharger l'ISO",
-		"checksum": "Vérifier l'intégrité",
+		"checksum": "Vérifier l'ISO",
 		"ready-to-ride": "Prêt pour le décollage ? Choisissez votre configuration matérielle et téléchargez l'ISO.",
 		"hwe-version": "Utilisez-vous un appareil Surface / ASUS ?",
 		"select-hardware": "Sélectionnez votre matériel",
